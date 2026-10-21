@@ -1,4 +1,4 @@
-<a href="https://apimart.ai/model/flux-2-max"><img src="banner.jpg" alt="FLUX.2 Max prompts" width="100%" /></a>
+<a href="https://gola.apimart.ai/k-XhaCqU-max"><img src="banner.jpg" alt="FLUX.2 Max prompts" width="100%" /></a>
 
 # Awesome FLUX.2 Max Prompts
 
@@ -8,7 +8,7 @@
 
 [English](README.md) | [简体中文](README_zh.md) | [日本語](README_ja.md)
 
-**[👉 Generate with FLUX.2 Max on APIMart · apimart.ai/model/flux-2-max](https://apimart.ai/model/flux-2-max)**
+**[👉 Generate with FLUX.2 Max on APIMart · apimart.ai/model/flux-2-max](https://gola.apimart.ai/k-XhaCqU-max)**
 
 ---
 
@@ -65,7 +65,7 @@ editorial studio portrait, volumetric fog with rim light, 100mm macro, commercia
 - Aspect Ratio: 4:5
 - Prompt Language: en
 
-**[👉 Try this prompt](https://apimart.ai/model/flux-2-max)**
+**[👉 Try this prompt](https://gola.apimart.ai/k-XhaCqU-max)**
 
 ---
 
@@ -88,7 +88,7 @@ candid street portrait, soft window light, 85mm lens, shallow depth of field, 2:
 - Aspect Ratio: 2:3
 - Prompt Language: en
 
-**[👉 Try this prompt](https://apimart.ai/model/flux-2-max)**
+**[👉 Try this prompt](https://gola.apimart.ai/k-XhaCqU-max)**
 
 ---
 
@@ -111,7 +111,7 @@ corporate headshot, hard directional key light with subtle fill, isometric 3D re
 - Aspect Ratio: 16:9
 - Prompt Language: en
 
-**[👉 Try this prompt](https://apimart.ai/model/flux-2-max)**
+**[👉 Try this prompt](https://gola.apimart.ai/k-XhaCqU-max)**
 
 ---
 
@@ -134,7 +134,7 @@ artistic double exposure portrait, golden hour backlight, top-down flat lay, 4:3
 - Aspect Ratio: 4:3
 - Prompt Language: en
 
-**[👉 Try this prompt](https://apimart.ai/model/flux-2-max)**
+**[👉 Try this prompt](https://gola.apimart.ai/k-XhaCqU-max)**
 
 ---
 
@@ -157,7 +157,7 @@ cinematic close-up, moody low-key lighting, wide angle, architectural compositio
 - Aspect Ratio: 1:1
 - Prompt Language: en
 
-**[👉 Try this prompt](https://apimart.ai/model/flux-2-max)**
+**[👉 Try this prompt](https://gola.apimart.ai/k-XhaCqU-max)**
 
 ---
 
@@ -180,7 +180,7 @@ editorial studio portrait, even diffused studio light, film grain, analog color 
 - Aspect Ratio: 3:4
 - Prompt Language: en
 
-**[👉 Try this prompt](https://apimart.ai/model/flux-2-max)**
+**[👉 Try this prompt](https://gola.apimart.ai/k-XhaCqU-max)**
 
 ---
 
@@ -203,7 +203,7 @@ candid street portrait, volumetric fog with rim light, isometric 3D render look,
 - Aspect Ratio: 4:5
 - Prompt Language: en
 
-**[👉 Try this prompt](https://apimart.ai/model/flux-2-max)**
+**[👉 Try this prompt](https://gola.apimart.ai/k-XhaCqU-max)**
 
 ---
 
@@ -226,7 +226,7 @@ corporate headshot, soft window light, wide angle, architectural composition, 2:
 - Aspect Ratio: 2:3
 - Prompt Language: en
 
-**[👉 Try this prompt](https://apimart.ai/model/flux-2-max)**
+**[👉 Try this prompt](https://gola.apimart.ai/k-XhaCqU-max)**
 
 ---
 
@@ -249,7 +249,7 @@ artistic double exposure portrait, hard directional key light with subtle fill, 
 - Aspect Ratio: 16:9
 - Prompt Language: en
 
-**[👉 Try this prompt](https://apimart.ai/model/flux-2-max)**
+**[👉 Try this prompt](https://gola.apimart.ai/k-XhaCqU-max)**
 
 ---
 
@@ -272,7 +272,7 @@ cinematic close-up, golden hour backlight, 85mm lens, shallow depth of field, 4:
 - Aspect Ratio: 4:3
 - Prompt Language: en
 
-**[👉 Try this prompt](https://apimart.ai/model/flux-2-max)**
+**[👉 Try this prompt](https://gola.apimart.ai/k-XhaCqU-max)**
 
 ---
 
@@ -295,7 +295,7 @@ editorial studio portrait, moody low-key lighting, top-down flat lay, 1:1 compos
 - Aspect Ratio: 1:1
 - Prompt Language: en
 
-**[👉 Try this prompt](https://apimart.ai/model/flux-2-max)**
+**[👉 Try this prompt](https://gola.apimart.ai/k-XhaCqU-max)**
 
 ---
 
@@ -318,7 +318,7 @@ candid street portrait, even diffused studio light, wide angle, architectural co
 - Aspect Ratio: 3:4
 - Prompt Language: en
 
-**[👉 Try this prompt](https://apimart.ai/model/flux-2-max)**
+**[👉 Try this prompt](https://gola.apimart.ai/k-XhaCqU-max)**
 
 ---
 
@@ -341,7 +341,7 @@ corporate headshot, volumetric fog with rim light, 85mm lens, shallow depth of f
 - Aspect Ratio: 4:5
 - Prompt Language: en
 
-**[👉 Try this prompt](https://apimart.ai/model/flux-2-max)**
+**[👉 Try this prompt](https://gola.apimart.ai/k-XhaCqU-max)**
 
 ---
 
@@ -364,7 +364,7 @@ artistic double exposure portrait, soft window light, film grain, analog color s
 - Aspect Ratio: 2:3
 - Prompt Language: en
 
-**[👉 Try this prompt](https://apimart.ai/model/flux-2-max)**
+**[👉 Try this prompt](https://gola.apimart.ai/k-XhaCqU-max)**
 
 ---
 
@@ -387,7 +387,7 @@ cinematic close-up, hard directional key light with subtle fill, isometric 3D re
 - Aspect Ratio: 16:9
 - Prompt Language: en
 
-**[👉 Try this prompt](https://apimart.ai/model/flux-2-max)**
+**[👉 Try this prompt](https://gola.apimart.ai/k-XhaCqU-max)**
 
 ---
 
@@ -410,7 +410,7 @@ editorial studio portrait, golden hour backlight, 100mm macro, commercial produc
 - Aspect Ratio: 4:3
 - Prompt Language: en
 
-**[👉 Try this prompt](https://apimart.ai/model/flux-2-max)**
+**[👉 Try this prompt](https://gola.apimart.ai/k-XhaCqU-max)**
 
 ---
 
@@ -433,7 +433,7 @@ candid street portrait, moody low-key lighting, 85mm lens, shallow depth of fiel
 - Aspect Ratio: 1:1
 - Prompt Language: en
 
-**[👉 Try this prompt](https://apimart.ai/model/flux-2-max)**
+**[👉 Try this prompt](https://gola.apimart.ai/k-XhaCqU-max)**
 
 ---
 
@@ -456,7 +456,7 @@ corporate headshot, even diffused studio light, isometric 3D render look, 3:4 co
 - Aspect Ratio: 3:4
 - Prompt Language: en
 
-**[👉 Try this prompt](https://apimart.ai/model/flux-2-max)**
+**[👉 Try this prompt](https://gola.apimart.ai/k-XhaCqU-max)**
 
 ---
 
@@ -479,7 +479,7 @@ artistic double exposure portrait, volumetric fog with rim light, top-down flat 
 - Aspect Ratio: 4:5
 - Prompt Language: en
 
-**[👉 Try this prompt](https://apimart.ai/model/flux-2-max)**
+**[👉 Try this prompt](https://gola.apimart.ai/k-XhaCqU-max)**
 
 ---
 
@@ -502,7 +502,7 @@ cinematic close-up, soft window light, wide angle, architectural composition, 2:
 - Aspect Ratio: 2:3
 - Prompt Language: en
 
-**[👉 Try this prompt](https://apimart.ai/model/flux-2-max)**
+**[👉 Try this prompt](https://gola.apimart.ai/k-XhaCqU-max)**
 
 ---
 
@@ -525,7 +525,7 @@ editorial studio portrait, hard directional key light with subtle fill, film gra
 - Aspect Ratio: 16:9
 - Prompt Language: en
 
-**[👉 Try this prompt](https://apimart.ai/model/flux-2-max)**
+**[👉 Try this prompt](https://gola.apimart.ai/k-XhaCqU-max)**
 
 ---
 
@@ -548,7 +548,7 @@ candid street portrait, golden hour backlight, isometric 3D render look, 4:3 com
 - Aspect Ratio: 4:3
 - Prompt Language: en
 
-**[👉 Try this prompt](https://apimart.ai/model/flux-2-max)**
+**[👉 Try this prompt](https://gola.apimart.ai/k-XhaCqU-max)**
 
 ---
 
@@ -571,7 +571,7 @@ corporate headshot, moody low-key lighting, wide angle, architectural compositio
 - Aspect Ratio: 1:1
 - Prompt Language: en
 
-**[👉 Try this prompt](https://apimart.ai/model/flux-2-max)**
+**[👉 Try this prompt](https://gola.apimart.ai/k-XhaCqU-max)**
 
 ---
 
@@ -594,7 +594,7 @@ artistic double exposure portrait, even diffused studio light, 100mm macro, comm
 - Aspect Ratio: 3:4
 - Prompt Language: en
 
-**[👉 Try this prompt](https://apimart.ai/model/flux-2-max)**
+**[👉 Try this prompt](https://gola.apimart.ai/k-XhaCqU-max)**
 
 ---
 
@@ -617,7 +617,7 @@ cinematic close-up, volumetric fog with rim light, 85mm lens, shallow depth of f
 - Aspect Ratio: 4:5
 - Prompt Language: en
 
-**[👉 Try this prompt](https://apimart.ai/model/flux-2-max)**
+**[👉 Try this prompt](https://gola.apimart.ai/k-XhaCqU-max)**
 
 ---
 
@@ -640,7 +640,7 @@ editorial studio portrait, soft window light, top-down flat lay, 2:3 composition
 - Aspect Ratio: 2:3
 - Prompt Language: en
 
-**[👉 Try this prompt](https://apimart.ai/model/flux-2-max)**
+**[👉 Try this prompt](https://gola.apimart.ai/k-XhaCqU-max)**
 
 ---
 
@@ -663,7 +663,7 @@ candid street portrait, hard directional key light with subtle fill, wide angle,
 - Aspect Ratio: 16:9
 - Prompt Language: en
 
-**[👉 Try this prompt](https://apimart.ai/model/flux-2-max)**
+**[👉 Try this prompt](https://gola.apimart.ai/k-XhaCqU-max)**
 
 ---
 
@@ -686,7 +686,7 @@ corporate headshot, golden hour backlight, 85mm lens, shallow depth of field, 4:
 - Aspect Ratio: 4:3
 - Prompt Language: en
 
-**[👉 Try this prompt](https://apimart.ai/model/flux-2-max)**
+**[👉 Try this prompt](https://gola.apimart.ai/k-XhaCqU-max)**
 
 ---
 
@@ -711,7 +711,7 @@ matte ceramic bottle, golden hour backlight, wide angle, architectural compositi
 - Aspect Ratio: 4:5
 - Prompt Language: en
 
-**[👉 Try this prompt](https://apimart.ai/model/flux-2-max)**
+**[👉 Try this prompt](https://gola.apimart.ai/k-XhaCqU-max)**
 
 ---
 
@@ -734,7 +734,7 @@ floating sneaker, moody low-key lighting, 85mm lens, shallow depth of field, 2:3
 - Aspect Ratio: 2:3
 - Prompt Language: en
 
-**[👉 Try this prompt](https://apimart.ai/model/flux-2-max)**
+**[👉 Try this prompt](https://gola.apimart.ai/k-XhaCqU-max)**
 
 ---
 
@@ -757,7 +757,7 @@ glass perfume flacon, even diffused studio light, 85mm lens, shallow depth of fi
 - Aspect Ratio: 16:9
 - Prompt Language: en
 
-**[👉 Try this prompt](https://apimart.ai/model/flux-2-max)**
+**[👉 Try this prompt](https://gola.apimart.ai/k-XhaCqU-max)**
 
 ---
 
@@ -780,7 +780,7 @@ minimal skincare set, volumetric fog with rim light, wide angle, architectural c
 - Aspect Ratio: 4:3
 - Prompt Language: en
 
-**[👉 Try this prompt](https://apimart.ai/model/flux-2-max)**
+**[👉 Try this prompt](https://gola.apimart.ai/k-XhaCqU-max)**
 
 ---
 
@@ -803,7 +803,7 @@ premium coffee packaging, soft window light, wide angle, architectural compositi
 - Aspect Ratio: 1:1
 - Prompt Language: en
 
-**[👉 Try this prompt](https://apimart.ai/model/flux-2-max)**
+**[👉 Try this prompt](https://gola.apimart.ai/k-XhaCqU-max)**
 
 ---
 
@@ -826,7 +826,7 @@ matte ceramic bottle, hard directional key light with subtle fill, 85mm lens, sh
 - Aspect Ratio: 3:4
 - Prompt Language: en
 
-**[👉 Try this prompt](https://apimart.ai/model/flux-2-max)**
+**[👉 Try this prompt](https://gola.apimart.ai/k-XhaCqU-max)**
 
 ---
 
@@ -849,7 +849,7 @@ floating sneaker, golden hour backlight, isometric 3D render look, 4:5 compositi
 - Aspect Ratio: 4:5
 - Prompt Language: en
 
-**[👉 Try this prompt](https://apimart.ai/model/flux-2-max)**
+**[👉 Try this prompt](https://gola.apimart.ai/k-XhaCqU-max)**
 
 ---
 
@@ -872,7 +872,7 @@ glass perfume flacon, moody low-key lighting, isometric 3D render look, 2:3 comp
 - Aspect Ratio: 2:3
 - Prompt Language: en
 
-**[👉 Try this prompt](https://apimart.ai/model/flux-2-max)**
+**[👉 Try this prompt](https://gola.apimart.ai/k-XhaCqU-max)**
 
 ---
 
@@ -895,7 +895,7 @@ minimal skincare set, even diffused studio light, 85mm lens, shallow depth of fi
 - Aspect Ratio: 16:9
 - Prompt Language: en
 
-**[👉 Try this prompt](https://apimart.ai/model/flux-2-max)**
+**[👉 Try this prompt](https://gola.apimart.ai/k-XhaCqU-max)**
 
 ---
 
@@ -918,7 +918,7 @@ premium coffee packaging, volumetric fog with rim light, 85mm lens, shallow dept
 - Aspect Ratio: 4:3
 - Prompt Language: en
 
-**[👉 Try this prompt](https://apimart.ai/model/flux-2-max)**
+**[👉 Try this prompt](https://gola.apimart.ai/k-XhaCqU-max)**
 
 ---
 
@@ -941,7 +941,7 @@ matte ceramic bottle, soft window light, isometric 3D render look, 1:1 compositi
 - Aspect Ratio: 1:1
 - Prompt Language: en
 
-**[👉 Try this prompt](https://apimart.ai/model/flux-2-max)**
+**[👉 Try this prompt](https://gola.apimart.ai/k-XhaCqU-max)**
 
 ---
 
@@ -964,7 +964,7 @@ floating sneaker, hard directional key light with subtle fill, wide angle, archi
 - Aspect Ratio: 3:4
 - Prompt Language: en
 
-**[👉 Try this prompt](https://apimart.ai/model/flux-2-max)**
+**[👉 Try this prompt](https://gola.apimart.ai/k-XhaCqU-max)**
 
 ---
 
@@ -987,7 +987,7 @@ glass perfume flacon, golden hour backlight, wide angle, architectural compositi
 - Aspect Ratio: 4:5
 - Prompt Language: en
 
-**[👉 Try this prompt](https://apimart.ai/model/flux-2-max)**
+**[👉 Try this prompt](https://gola.apimart.ai/k-XhaCqU-max)**
 
 ---
 
@@ -1010,7 +1010,7 @@ minimal skincare set, moody low-key lighting, isometric 3D render look, 2:3 comp
 - Aspect Ratio: 2:3
 - Prompt Language: en
 
-**[👉 Try this prompt](https://apimart.ai/model/flux-2-max)**
+**[👉 Try this prompt](https://gola.apimart.ai/k-XhaCqU-max)**
 
 ---
 
@@ -1033,7 +1033,7 @@ premium coffee packaging, even diffused studio light, isometric 3D render look, 
 - Aspect Ratio: 16:9
 - Prompt Language: en
 
-**[👉 Try this prompt](https://apimart.ai/model/flux-2-max)**
+**[👉 Try this prompt](https://gola.apimart.ai/k-XhaCqU-max)**
 
 ---
 
@@ -1056,7 +1056,7 @@ matte ceramic bottle, volumetric fog with rim light, wide angle, architectural c
 - Aspect Ratio: 4:3
 - Prompt Language: en
 
-**[👉 Try this prompt](https://apimart.ai/model/flux-2-max)**
+**[👉 Try this prompt](https://gola.apimart.ai/k-XhaCqU-max)**
 
 ---
 
@@ -1079,7 +1079,7 @@ floating sneaker, soft window light, 85mm lens, shallow depth of field, 1:1 comp
 - Aspect Ratio: 1:1
 - Prompt Language: en
 
-**[👉 Try this prompt](https://apimart.ai/model/flux-2-max)**
+**[👉 Try this prompt](https://gola.apimart.ai/k-XhaCqU-max)**
 
 ---
 
@@ -1102,7 +1102,7 @@ glass perfume flacon, hard directional key light with subtle fill, 85mm lens, sh
 - Aspect Ratio: 3:4
 - Prompt Language: en
 
-**[👉 Try this prompt](https://apimart.ai/model/flux-2-max)**
+**[👉 Try this prompt](https://gola.apimart.ai/k-XhaCqU-max)**
 
 ---
 
@@ -1125,7 +1125,7 @@ minimal skincare set, golden hour backlight, wide angle, architectural compositi
 - Aspect Ratio: 4:5
 - Prompt Language: en
 
-**[👉 Try this prompt](https://apimart.ai/model/flux-2-max)**
+**[👉 Try this prompt](https://gola.apimart.ai/k-XhaCqU-max)**
 
 ---
 
@@ -1148,7 +1148,7 @@ premium coffee packaging, moody low-key lighting, wide angle, architectural comp
 - Aspect Ratio: 2:3
 - Prompt Language: en
 
-**[👉 Try this prompt](https://apimart.ai/model/flux-2-max)**
+**[👉 Try this prompt](https://gola.apimart.ai/k-XhaCqU-max)**
 
 ---
 
@@ -1171,7 +1171,7 @@ matte ceramic bottle, even diffused studio light, 85mm lens, shallow depth of fi
 - Aspect Ratio: 16:9
 - Prompt Language: en
 
-**[👉 Try this prompt](https://apimart.ai/model/flux-2-max)**
+**[👉 Try this prompt](https://gola.apimart.ai/k-XhaCqU-max)**
 
 ---
 
@@ -1194,7 +1194,7 @@ floating sneaker, volumetric fog with rim light, isometric 3D render look, 4:3 c
 - Aspect Ratio: 4:3
 - Prompt Language: en
 
-**[👉 Try this prompt](https://apimart.ai/model/flux-2-max)**
+**[👉 Try this prompt](https://gola.apimart.ai/k-XhaCqU-max)**
 
 ---
 
@@ -1217,7 +1217,7 @@ glass perfume flacon, soft window light, isometric 3D render look, 1:1 compositi
 - Aspect Ratio: 1:1
 - Prompt Language: en
 
-**[👉 Try this prompt](https://apimart.ai/model/flux-2-max)**
+**[👉 Try this prompt](https://gola.apimart.ai/k-XhaCqU-max)**
 
 ---
 
@@ -1240,7 +1240,7 @@ minimal skincare set, hard directional key light with subtle fill, 85mm lens, sh
 - Aspect Ratio: 3:4
 - Prompt Language: en
 
-**[👉 Try this prompt](https://apimart.ai/model/flux-2-max)**
+**[👉 Try this prompt](https://gola.apimart.ai/k-XhaCqU-max)**
 
 ---
 
@@ -1263,7 +1263,7 @@ premium coffee packaging, golden hour backlight, 85mm lens, shallow depth of fie
 - Aspect Ratio: 4:5
 - Prompt Language: en
 
-**[👉 Try this prompt](https://apimart.ai/model/flux-2-max)**
+**[👉 Try this prompt](https://gola.apimart.ai/k-XhaCqU-max)**
 
 ---
 
@@ -1286,7 +1286,7 @@ matte ceramic bottle, moody low-key lighting, isometric 3D render look, 2:3 comp
 - Aspect Ratio: 2:3
 - Prompt Language: en
 
-**[👉 Try this prompt](https://apimart.ai/model/flux-2-max)**
+**[👉 Try this prompt](https://gola.apimart.ai/k-XhaCqU-max)**
 
 ---
 
@@ -1309,7 +1309,7 @@ floating sneaker, even diffused studio light, wide angle, architectural composit
 - Aspect Ratio: 16:9
 - Prompt Language: en
 
-**[👉 Try this prompt](https://apimart.ai/model/flux-2-max)**
+**[👉 Try this prompt](https://gola.apimart.ai/k-XhaCqU-max)**
 
 ---
 
@@ -1332,7 +1332,7 @@ glass perfume flacon, volumetric fog with rim light, wide angle, architectural c
 - Aspect Ratio: 4:3
 - Prompt Language: en
 
-**[👉 Try this prompt](https://apimart.ai/model/flux-2-max)**
+**[👉 Try this prompt](https://gola.apimart.ai/k-XhaCqU-max)**
 
 ---
 
@@ -1357,7 +1357,7 @@ swiss-style exhibition poster, hard directional key light with subtle fill, film
 - Aspect Ratio: 4:5
 - Prompt Language: en
 
-**[👉 Try this prompt](https://apimart.ai/model/flux-2-max)**
+**[👉 Try this prompt](https://gola.apimart.ai/k-XhaCqU-max)**
 
 ---
 
@@ -1380,7 +1380,7 @@ risograph concert poster, golden hour backlight, wide angle, architectural compo
 - Aspect Ratio: 2:3
 - Prompt Language: en
 
-**[👉 Try this prompt](https://apimart.ai/model/flux-2-max)**
+**[👉 Try this prompt](https://gola.apimart.ai/k-XhaCqU-max)**
 
 ---
 
@@ -1403,7 +1403,7 @@ bold typographic movie key art, moody low-key lighting, isometric 3D render look
 - Aspect Ratio: 16:9
 - Prompt Language: en
 
-**[👉 Try this prompt](https://apimart.ai/model/flux-2-max)**
+**[👉 Try this prompt](https://gola.apimart.ai/k-XhaCqU-max)**
 
 ---
 
@@ -1426,7 +1426,7 @@ minimal travel poster, even diffused studio light, top-down flat lay, 4:3 compos
 - Aspect Ratio: 4:3
 - Prompt Language: en
 
-**[👉 Try this prompt](https://apimart.ai/model/flux-2-max)**
+**[👉 Try this prompt](https://gola.apimart.ai/k-XhaCqU-max)**
 
 ---
 
@@ -1449,7 +1449,7 @@ vintage book cover, volumetric fog with rim light, wide angle, architectural com
 - Aspect Ratio: 1:1
 - Prompt Language: en
 
-**[👉 Try this prompt](https://apimart.ai/model/flux-2-max)**
+**[👉 Try this prompt](https://gola.apimart.ai/k-XhaCqU-max)**
 
 ---
 
@@ -1472,7 +1472,7 @@ swiss-style exhibition poster, soft window light, top-down flat lay, 3:4 composi
 - Aspect Ratio: 3:4
 - Prompt Language: en
 
-**[👉 Try this prompt](https://apimart.ai/model/flux-2-max)**
+**[👉 Try this prompt](https://gola.apimart.ai/k-XhaCqU-max)**
 
 ---
 
@@ -1495,7 +1495,7 @@ risograph concert poster, hard directional key light with subtle fill, 85mm lens
 - Aspect Ratio: 4:5
 - Prompt Language: en
 
-**[👉 Try this prompt](https://apimart.ai/model/flux-2-max)**
+**[👉 Try this prompt](https://gola.apimart.ai/k-XhaCqU-max)**
 
 ---
 
@@ -1518,7 +1518,7 @@ bold typographic movie key art, golden hour backlight, wide angle, architectural
 - Aspect Ratio: 2:3
 - Prompt Language: en
 
-**[👉 Try this prompt](https://apimart.ai/model/flux-2-max)**
+**[👉 Try this prompt](https://gola.apimart.ai/k-XhaCqU-max)**
 
 ---
 
@@ -1541,7 +1541,7 @@ minimal travel poster, moody low-key lighting, 100mm macro, commercial product p
 - Aspect Ratio: 16:9
 - Prompt Language: en
 
-**[👉 Try this prompt](https://apimart.ai/model/flux-2-max)**
+**[👉 Try this prompt](https://gola.apimart.ai/k-XhaCqU-max)**
 
 ---
 
@@ -1564,7 +1564,7 @@ vintage book cover, even diffused studio light, 85mm lens, shallow depth of fiel
 - Aspect Ratio: 4:3
 - Prompt Language: en
 
-**[👉 Try this prompt](https://apimart.ai/model/flux-2-max)**
+**[👉 Try this prompt](https://gola.apimart.ai/k-XhaCqU-max)**
 
 ---
 
@@ -1587,7 +1587,7 @@ swiss-style exhibition poster, volumetric fog with rim light, 100mm macro, comme
 - Aspect Ratio: 1:1
 - Prompt Language: en
 
-**[👉 Try this prompt](https://apimart.ai/model/flux-2-max)**
+**[👉 Try this prompt](https://gola.apimart.ai/k-XhaCqU-max)**
 
 ---
 
@@ -1610,7 +1610,7 @@ risograph concert poster, soft window light, isometric 3D render look, 3:4 compo
 - Aspect Ratio: 3:4
 - Prompt Language: en
 
-**[👉 Try this prompt](https://apimart.ai/model/flux-2-max)**
+**[👉 Try this prompt](https://gola.apimart.ai/k-XhaCqU-max)**
 
 ---
 
@@ -1633,7 +1633,7 @@ bold typographic movie key art, hard directional key light with subtle fill, 85m
 - Aspect Ratio: 4:5
 - Prompt Language: en
 
-**[👉 Try this prompt](https://apimart.ai/model/flux-2-max)**
+**[👉 Try this prompt](https://gola.apimart.ai/k-XhaCqU-max)**
 
 ---
 
@@ -1656,7 +1656,7 @@ minimal travel poster, golden hour backlight, film grain, analog color science, 
 - Aspect Ratio: 2:3
 - Prompt Language: en
 
-**[👉 Try this prompt](https://apimart.ai/model/flux-2-max)**
+**[👉 Try this prompt](https://gola.apimart.ai/k-XhaCqU-max)**
 
 ---
 
@@ -1679,7 +1679,7 @@ vintage book cover, moody low-key lighting, isometric 3D render look, 16:9 compo
 - Aspect Ratio: 16:9
 - Prompt Language: en
 
-**[👉 Try this prompt](https://apimart.ai/model/flux-2-max)**
+**[👉 Try this prompt](https://gola.apimart.ai/k-XhaCqU-max)**
 
 ---
 
@@ -1702,7 +1702,7 @@ swiss-style exhibition poster, even diffused studio light, film grain, analog co
 - Aspect Ratio: 4:3
 - Prompt Language: en
 
-**[👉 Try this prompt](https://apimart.ai/model/flux-2-max)**
+**[👉 Try this prompt](https://gola.apimart.ai/k-XhaCqU-max)**
 
 ---
 
@@ -1725,7 +1725,7 @@ risograph concert poster, volumetric fog with rim light, wide angle, architectur
 - Aspect Ratio: 1:1
 - Prompt Language: en
 
-**[👉 Try this prompt](https://apimart.ai/model/flux-2-max)**
+**[👉 Try this prompt](https://gola.apimart.ai/k-XhaCqU-max)**
 
 ---
 
@@ -1748,7 +1748,7 @@ bold typographic movie key art, soft window light, isometric 3D render look, 3:4
 - Aspect Ratio: 3:4
 - Prompt Language: en
 
-**[👉 Try this prompt](https://apimart.ai/model/flux-2-max)**
+**[👉 Try this prompt](https://gola.apimart.ai/k-XhaCqU-max)**
 
 ---
 
@@ -1771,7 +1771,7 @@ minimal travel poster, hard directional key light with subtle fill, top-down fla
 - Aspect Ratio: 4:5
 - Prompt Language: en
 
-**[👉 Try this prompt](https://apimart.ai/model/flux-2-max)**
+**[👉 Try this prompt](https://gola.apimart.ai/k-XhaCqU-max)**
 
 ---
 
@@ -1794,7 +1794,7 @@ vintage book cover, golden hour backlight, wide angle, architectural composition
 - Aspect Ratio: 2:3
 - Prompt Language: en
 
-**[👉 Try this prompt](https://apimart.ai/model/flux-2-max)**
+**[👉 Try this prompt](https://gola.apimart.ai/k-XhaCqU-max)**
 
 ---
 
@@ -1817,7 +1817,7 @@ swiss-style exhibition poster, moody low-key lighting, top-down flat lay, 16:9 c
 - Aspect Ratio: 16:9
 - Prompt Language: en
 
-**[👉 Try this prompt](https://apimart.ai/model/flux-2-max)**
+**[👉 Try this prompt](https://gola.apimart.ai/k-XhaCqU-max)**
 
 ---
 
@@ -1840,7 +1840,7 @@ risograph concert poster, even diffused studio light, 85mm lens, shallow depth o
 - Aspect Ratio: 4:3
 - Prompt Language: en
 
-**[👉 Try this prompt](https://apimart.ai/model/flux-2-max)**
+**[👉 Try this prompt](https://gola.apimart.ai/k-XhaCqU-max)**
 
 ---
 
@@ -1863,7 +1863,7 @@ bold typographic movie key art, volumetric fog with rim light, wide angle, archi
 - Aspect Ratio: 1:1
 - Prompt Language: en
 
-**[👉 Try this prompt](https://apimart.ai/model/flux-2-max)**
+**[👉 Try this prompt](https://gola.apimart.ai/k-XhaCqU-max)**
 
 ---
 
@@ -1886,7 +1886,7 @@ minimal travel poster, soft window light, 100mm macro, commercial product photog
 - Aspect Ratio: 3:4
 - Prompt Language: en
 
-**[👉 Try this prompt](https://apimart.ai/model/flux-2-max)**
+**[👉 Try this prompt](https://gola.apimart.ai/k-XhaCqU-max)**
 
 ---
 
@@ -1909,7 +1909,7 @@ vintage book cover, hard directional key light with subtle fill, 85mm lens, shal
 - Aspect Ratio: 4:5
 - Prompt Language: en
 
-**[👉 Try this prompt](https://apimart.ai/model/flux-2-max)**
+**[👉 Try this prompt](https://gola.apimart.ai/k-XhaCqU-max)**
 
 ---
 
@@ -1932,7 +1932,7 @@ swiss-style exhibition poster, golden hour backlight, 100mm macro, commercial pr
 - Aspect Ratio: 2:3
 - Prompt Language: en
 
-**[👉 Try this prompt](https://apimart.ai/model/flux-2-max)**
+**[👉 Try this prompt](https://gola.apimart.ai/k-XhaCqU-max)**
 
 ---
 
@@ -1955,7 +1955,7 @@ risograph concert poster, moody low-key lighting, isometric 3D render look, 16:9
 - Aspect Ratio: 16:9
 - Prompt Language: en
 
-**[👉 Try this prompt](https://apimart.ai/model/flux-2-max)**
+**[👉 Try this prompt](https://gola.apimart.ai/k-XhaCqU-max)**
 
 ---
 
@@ -1978,7 +1978,7 @@ bold typographic movie key art, even diffused studio light, 85mm lens, shallow d
 - Aspect Ratio: 4:3
 - Prompt Language: en
 
-**[👉 Try this prompt](https://apimart.ai/model/flux-2-max)**
+**[👉 Try this prompt](https://gola.apimart.ai/k-XhaCqU-max)**
 
 ---
 
@@ -2003,7 +2003,7 @@ exploded view of a camera, moody low-key lighting, 100mm macro, commercial produ
 - Aspect Ratio: 4:5
 - Prompt Language: en
 
-**[👉 Try this prompt](https://apimart.ai/model/flux-2-max)**
+**[👉 Try this prompt](https://gola.apimart.ai/k-XhaCqU-max)**
 
 ---
 
@@ -2026,7 +2026,7 @@ three-step recipe card, even diffused studio light, 85mm lens, shallow depth of 
 - Aspect Ratio: 2:3
 - Prompt Language: en
 
-**[👉 Try this prompt](https://apimart.ai/model/flux-2-max)**
+**[👉 Try this prompt](https://gola.apimart.ai/k-XhaCqU-max)**
 
 ---
 
@@ -2049,7 +2049,7 @@ timeline infographic, volumetric fog with rim light, 85mm lens, shallow depth of
 - Aspect Ratio: 16:9
 - Prompt Language: en
 
-**[👉 Try this prompt](https://apimart.ai/model/flux-2-max)**
+**[👉 Try this prompt](https://gola.apimart.ai/k-XhaCqU-max)**
 
 ---
 
@@ -2072,7 +2072,7 @@ scientific cross-section, soft window light, 85mm lens, shallow depth of field, 
 - Aspect Ratio: 4:3
 - Prompt Language: en
 
-**[👉 Try this prompt](https://apimart.ai/model/flux-2-max)**
+**[👉 Try this prompt](https://gola.apimart.ai/k-XhaCqU-max)**
 
 ---
 
@@ -2095,7 +2095,7 @@ comparison chart with icons, hard directional key light with subtle fill, film g
 - Aspect Ratio: 1:1
 - Prompt Language: en
 
-**[👉 Try this prompt](https://apimart.ai/model/flux-2-max)**
+**[👉 Try this prompt](https://gola.apimart.ai/k-XhaCqU-max)**
 
 ---
 
@@ -2118,7 +2118,7 @@ exploded view of a camera, golden hour backlight, film grain, analog color scien
 - Aspect Ratio: 3:4
 - Prompt Language: en
 
-**[👉 Try this prompt](https://apimart.ai/model/flux-2-max)**
+**[👉 Try this prompt](https://gola.apimart.ai/k-XhaCqU-max)**
 
 ---
 
@@ -2141,7 +2141,7 @@ three-step recipe card, moody low-key lighting, isometric 3D render look, 4:5 co
 - Aspect Ratio: 4:5
 - Prompt Language: en
 
-**[👉 Try this prompt](https://apimart.ai/model/flux-2-max)**
+**[👉 Try this prompt](https://gola.apimart.ai/k-XhaCqU-max)**
 
 ---
 
@@ -2164,7 +2164,7 @@ timeline infographic, even diffused studio light, isometric 3D render look, 2:3 
 - Aspect Ratio: 2:3
 - Prompt Language: en
 
-**[👉 Try this prompt](https://apimart.ai/model/flux-2-max)**
+**[👉 Try this prompt](https://gola.apimart.ai/k-XhaCqU-max)**
 
 ---
 
@@ -2187,7 +2187,7 @@ scientific cross-section, volumetric fog with rim light, isometric 3D render loo
 - Aspect Ratio: 16:9
 - Prompt Language: en
 
-**[👉 Try this prompt](https://apimart.ai/model/flux-2-max)**
+**[👉 Try this prompt](https://gola.apimart.ai/k-XhaCqU-max)**
 
 ---
 
@@ -2210,7 +2210,7 @@ comparison chart with icons, soft window light, top-down flat lay, 4:3 compositi
 - Aspect Ratio: 4:3
 - Prompt Language: en
 
-**[👉 Try this prompt](https://apimart.ai/model/flux-2-max)**
+**[👉 Try this prompt](https://gola.apimart.ai/k-XhaCqU-max)**
 
 ---
 
@@ -2233,7 +2233,7 @@ exploded view of a camera, hard directional key light with subtle fill, top-down
 - Aspect Ratio: 1:1
 - Prompt Language: en
 
-**[👉 Try this prompt](https://apimart.ai/model/flux-2-max)**
+**[👉 Try this prompt](https://gola.apimart.ai/k-XhaCqU-max)**
 
 ---
 
@@ -2256,7 +2256,7 @@ three-step recipe card, golden hour backlight, wide angle, architectural composi
 - Aspect Ratio: 3:4
 - Prompt Language: en
 
-**[👉 Try this prompt](https://apimart.ai/model/flux-2-max)**
+**[👉 Try this prompt](https://gola.apimart.ai/k-XhaCqU-max)**
 
 ---
 
@@ -2279,7 +2279,7 @@ timeline infographic, moody low-key lighting, wide angle, architectural composit
 - Aspect Ratio: 4:5
 - Prompt Language: en
 
-**[👉 Try this prompt](https://apimart.ai/model/flux-2-max)**
+**[👉 Try this prompt](https://gola.apimart.ai/k-XhaCqU-max)**
 
 ---
 
@@ -2302,7 +2302,7 @@ scientific cross-section, even diffused studio light, wide angle, architectural 
 - Aspect Ratio: 2:3
 - Prompt Language: en
 
-**[👉 Try this prompt](https://apimart.ai/model/flux-2-max)**
+**[👉 Try this prompt](https://gola.apimart.ai/k-XhaCqU-max)**
 
 ---
 
@@ -2325,7 +2325,7 @@ comparison chart with icons, volumetric fog with rim light, 100mm macro, commerc
 - Aspect Ratio: 16:9
 - Prompt Language: en
 
-**[👉 Try this prompt](https://apimart.ai/model/flux-2-max)**
+**[👉 Try this prompt](https://gola.apimart.ai/k-XhaCqU-max)**
 
 ---
 
@@ -2348,7 +2348,7 @@ exploded view of a camera, soft window light, 100mm macro, commercial product ph
 - Aspect Ratio: 4:3
 - Prompt Language: en
 
-**[👉 Try this prompt](https://apimart.ai/model/flux-2-max)**
+**[👉 Try this prompt](https://gola.apimart.ai/k-XhaCqU-max)**
 
 ---
 
@@ -2371,7 +2371,7 @@ three-step recipe card, hard directional key light with subtle fill, 85mm lens, 
 - Aspect Ratio: 1:1
 - Prompt Language: en
 
-**[👉 Try this prompt](https://apimart.ai/model/flux-2-max)**
+**[👉 Try this prompt](https://gola.apimart.ai/k-XhaCqU-max)**
 
 ---
 
@@ -2394,7 +2394,7 @@ timeline infographic, golden hour backlight, 85mm lens, shallow depth of field, 
 - Aspect Ratio: 3:4
 - Prompt Language: en
 
-**[👉 Try this prompt](https://apimart.ai/model/flux-2-max)**
+**[👉 Try this prompt](https://gola.apimart.ai/k-XhaCqU-max)**
 
 ---
 
@@ -2417,7 +2417,7 @@ scientific cross-section, moody low-key lighting, 85mm lens, shallow depth of fi
 - Aspect Ratio: 4:5
 - Prompt Language: en
 
-**[👉 Try this prompt](https://apimart.ai/model/flux-2-max)**
+**[👉 Try this prompt](https://gola.apimart.ai/k-XhaCqU-max)**
 
 ---
 
@@ -2440,7 +2440,7 @@ comparison chart with icons, even diffused studio light, film grain, analog colo
 - Aspect Ratio: 2:3
 - Prompt Language: en
 
-**[👉 Try this prompt](https://apimart.ai/model/flux-2-max)**
+**[👉 Try this prompt](https://gola.apimart.ai/k-XhaCqU-max)**
 
 ---
 
@@ -2463,7 +2463,7 @@ exploded view of a camera, volumetric fog with rim light, film grain, analog col
 - Aspect Ratio: 16:9
 - Prompt Language: en
 
-**[👉 Try this prompt](https://apimart.ai/model/flux-2-max)**
+**[👉 Try this prompt](https://gola.apimart.ai/k-XhaCqU-max)**
 
 ---
 
@@ -2486,7 +2486,7 @@ three-step recipe card, soft window light, isometric 3D render look, 4:3 composi
 - Aspect Ratio: 4:3
 - Prompt Language: en
 
-**[👉 Try this prompt](https://apimart.ai/model/flux-2-max)**
+**[👉 Try this prompt](https://gola.apimart.ai/k-XhaCqU-max)**
 
 ---
 
@@ -2509,7 +2509,7 @@ timeline infographic, hard directional key light with subtle fill, isometric 3D 
 - Aspect Ratio: 1:1
 - Prompt Language: en
 
-**[👉 Try this prompt](https://apimart.ai/model/flux-2-max)**
+**[👉 Try this prompt](https://gola.apimart.ai/k-XhaCqU-max)**
 
 ---
 
@@ -2532,7 +2532,7 @@ scientific cross-section, golden hour backlight, isometric 3D render look, 3:4 c
 - Aspect Ratio: 3:4
 - Prompt Language: en
 
-**[👉 Try this prompt](https://apimart.ai/model/flux-2-max)**
+**[👉 Try this prompt](https://gola.apimart.ai/k-XhaCqU-max)**
 
 ---
 
@@ -2555,7 +2555,7 @@ comparison chart with icons, moody low-key lighting, top-down flat lay, 4:5 comp
 - Aspect Ratio: 4:5
 - Prompt Language: en
 
-**[👉 Try this prompt](https://apimart.ai/model/flux-2-max)**
+**[👉 Try this prompt](https://gola.apimart.ai/k-XhaCqU-max)**
 
 ---
 
@@ -2578,7 +2578,7 @@ exploded view of a camera, even diffused studio light, top-down flat lay, 2:3 co
 - Aspect Ratio: 2:3
 - Prompt Language: en
 
-**[👉 Try this prompt](https://apimart.ai/model/flux-2-max)**
+**[👉 Try this prompt](https://gola.apimart.ai/k-XhaCqU-max)**
 
 ---
 
@@ -2601,7 +2601,7 @@ three-step recipe card, volumetric fog with rim light, wide angle, architectural
 - Aspect Ratio: 16:9
 - Prompt Language: en
 
-**[👉 Try this prompt](https://apimart.ai/model/flux-2-max)**
+**[👉 Try this prompt](https://gola.apimart.ai/k-XhaCqU-max)**
 
 ---
 
@@ -2624,7 +2624,7 @@ timeline infographic, soft window light, wide angle, architectural composition, 
 - Aspect Ratio: 4:3
 - Prompt Language: en
 
-**[👉 Try this prompt](https://apimart.ai/model/flux-2-max)**
+**[👉 Try this prompt](https://gola.apimart.ai/k-XhaCqU-max)**
 
 ---
 
@@ -2649,7 +2649,7 @@ anime rainy window scene, golden hour backlight, 85mm lens, shallow depth of fie
 - Aspect Ratio: 4:5
 - Prompt Language: en
 
-**[👉 Try this prompt](https://apimart.ai/model/flux-2-max)**
+**[👉 Try this prompt](https://gola.apimart.ai/k-XhaCqU-max)**
 
 ---
 
@@ -2672,7 +2672,7 @@ watercolor botanical study, moody low-key lighting, isometric 3D render look, 2:
 - Aspect Ratio: 2:3
 - Prompt Language: en
 
-**[👉 Try this prompt](https://apimart.ai/model/flux-2-max)**
+**[👉 Try this prompt](https://gola.apimart.ai/k-XhaCqU-max)**
 
 ---
 
@@ -2695,7 +2695,7 @@ paper-cut village landscape, even diffused studio light, 100mm macro, commercial
 - Aspect Ratio: 16:9
 - Prompt Language: en
 
-**[👉 Try this prompt](https://apimart.ai/model/flux-2-max)**
+**[👉 Try this prompt](https://gola.apimart.ai/k-XhaCqU-max)**
 
 ---
 
@@ -2718,7 +2718,7 @@ gouache children book spread, volumetric fog with rim light, isometric 3D render
 - Aspect Ratio: 4:3
 - Prompt Language: en
 
-**[👉 Try this prompt](https://apimart.ai/model/flux-2-max)**
+**[👉 Try this prompt](https://gola.apimart.ai/k-XhaCqU-max)**
 
 ---
 
@@ -2741,7 +2741,7 @@ retro manga panel, soft window light, 100mm macro, commercial product photograph
 - Aspect Ratio: 1:1
 - Prompt Language: en
 
-**[👉 Try this prompt](https://apimart.ai/model/flux-2-max)**
+**[👉 Try this prompt](https://gola.apimart.ai/k-XhaCqU-max)**
 
 ---
 
@@ -2764,7 +2764,7 @@ anime rainy window scene, hard directional key light with subtle fill, isometric
 - Aspect Ratio: 3:4
 - Prompt Language: en
 
-**[👉 Try this prompt](https://apimart.ai/model/flux-2-max)**
+**[👉 Try this prompt](https://gola.apimart.ai/k-XhaCqU-max)**
 
 ---
 
@@ -2787,7 +2787,7 @@ watercolor botanical study, golden hour backlight, wide angle, architectural com
 - Aspect Ratio: 4:5
 - Prompt Language: en
 
-**[👉 Try this prompt](https://apimart.ai/model/flux-2-max)**
+**[👉 Try this prompt](https://gola.apimart.ai/k-XhaCqU-max)**
 
 ---
 
@@ -2810,7 +2810,7 @@ paper-cut village landscape, moody low-key lighting, film grain, analog color sc
 - Aspect Ratio: 2:3
 - Prompt Language: en
 
-**[👉 Try this prompt](https://apimart.ai/model/flux-2-max)**
+**[👉 Try this prompt](https://gola.apimart.ai/k-XhaCqU-max)**
 
 ---
 
@@ -2833,7 +2833,7 @@ gouache children book spread, even diffused studio light, wide angle, architectu
 - Aspect Ratio: 16:9
 - Prompt Language: en
 
-**[👉 Try this prompt](https://apimart.ai/model/flux-2-max)**
+**[👉 Try this prompt](https://gola.apimart.ai/k-XhaCqU-max)**
 
 ---
 
@@ -2856,7 +2856,7 @@ retro manga panel, volumetric fog with rim light, film grain, analog color scien
 - Aspect Ratio: 4:3
 - Prompt Language: en
 
-**[👉 Try this prompt](https://apimart.ai/model/flux-2-max)**
+**[👉 Try this prompt](https://gola.apimart.ai/k-XhaCqU-max)**
 
 ---
 
@@ -2879,7 +2879,7 @@ anime rainy window scene, soft window light, wide angle, architectural compositi
 - Aspect Ratio: 1:1
 - Prompt Language: en
 
-**[👉 Try this prompt](https://apimart.ai/model/flux-2-max)**
+**[👉 Try this prompt](https://gola.apimart.ai/k-XhaCqU-max)**
 
 ---
 
@@ -2902,7 +2902,7 @@ watercolor botanical study, hard directional key light with subtle fill, 85mm le
 - Aspect Ratio: 3:4
 - Prompt Language: en
 
-**[👉 Try this prompt](https://apimart.ai/model/flux-2-max)**
+**[👉 Try this prompt](https://gola.apimart.ai/k-XhaCqU-max)**
 
 ---
 
@@ -2925,7 +2925,7 @@ paper-cut village landscape, golden hour backlight, top-down flat lay, 4:5 compo
 - Aspect Ratio: 4:5
 - Prompt Language: en
 
-**[👉 Try this prompt](https://apimart.ai/model/flux-2-max)**
+**[👉 Try this prompt](https://gola.apimart.ai/k-XhaCqU-max)**
 
 ---
 
@@ -2948,7 +2948,7 @@ gouache children book spread, moody low-key lighting, 85mm lens, shallow depth o
 - Aspect Ratio: 2:3
 - Prompt Language: en
 
-**[👉 Try this prompt](https://apimart.ai/model/flux-2-max)**
+**[👉 Try this prompt](https://gola.apimart.ai/k-XhaCqU-max)**
 
 ---
 
@@ -2971,7 +2971,7 @@ retro manga panel, even diffused studio light, top-down flat lay, 16:9 compositi
 - Aspect Ratio: 16:9
 - Prompt Language: en
 
-**[👉 Try this prompt](https://apimart.ai/model/flux-2-max)**
+**[👉 Try this prompt](https://gola.apimart.ai/k-XhaCqU-max)**
 
 ---
 
@@ -2994,7 +2994,7 @@ anime rainy window scene, volumetric fog with rim light, 85mm lens, shallow dept
 - Aspect Ratio: 4:3
 - Prompt Language: en
 
-**[👉 Try this prompt](https://apimart.ai/model/flux-2-max)**
+**[👉 Try this prompt](https://gola.apimart.ai/k-XhaCqU-max)**
 
 ---
 
@@ -3017,7 +3017,7 @@ watercolor botanical study, soft window light, isometric 3D render look, 1:1 com
 - Aspect Ratio: 1:1
 - Prompt Language: en
 
-**[👉 Try this prompt](https://apimart.ai/model/flux-2-max)**
+**[👉 Try this prompt](https://gola.apimart.ai/k-XhaCqU-max)**
 
 ---
 
@@ -3040,7 +3040,7 @@ paper-cut village landscape, hard directional key light with subtle fill, 100mm 
 - Aspect Ratio: 3:4
 - Prompt Language: en
 
-**[👉 Try this prompt](https://apimart.ai/model/flux-2-max)**
+**[👉 Try this prompt](https://gola.apimart.ai/k-XhaCqU-max)**
 
 ---
 
@@ -3063,7 +3063,7 @@ gouache children book spread, golden hour backlight, isometric 3D render look, 4
 - Aspect Ratio: 4:5
 - Prompt Language: en
 
-**[👉 Try this prompt](https://apimart.ai/model/flux-2-max)**
+**[👉 Try this prompt](https://gola.apimart.ai/k-XhaCqU-max)**
 
 ---
 
@@ -3086,7 +3086,7 @@ retro manga panel, moody low-key lighting, 100mm macro, commercial product photo
 - Aspect Ratio: 2:3
 - Prompt Language: en
 
-**[👉 Try this prompt](https://apimart.ai/model/flux-2-max)**
+**[👉 Try this prompt](https://gola.apimart.ai/k-XhaCqU-max)**
 
 ---
 
@@ -3109,7 +3109,7 @@ anime rainy window scene, even diffused studio light, isometric 3D render look, 
 - Aspect Ratio: 16:9
 - Prompt Language: en
 
-**[👉 Try this prompt](https://apimart.ai/model/flux-2-max)**
+**[👉 Try this prompt](https://gola.apimart.ai/k-XhaCqU-max)**
 
 ---
 
@@ -3132,7 +3132,7 @@ watercolor botanical study, volumetric fog with rim light, wide angle, architect
 - Aspect Ratio: 4:3
 - Prompt Language: en
 
-**[👉 Try this prompt](https://apimart.ai/model/flux-2-max)**
+**[👉 Try this prompt](https://gola.apimart.ai/k-XhaCqU-max)**
 
 ---
 
@@ -3155,7 +3155,7 @@ paper-cut village landscape, soft window light, film grain, analog color science
 - Aspect Ratio: 1:1
 - Prompt Language: en
 
-**[👉 Try this prompt](https://apimart.ai/model/flux-2-max)**
+**[👉 Try this prompt](https://gola.apimart.ai/k-XhaCqU-max)**
 
 ---
 
@@ -3178,7 +3178,7 @@ gouache children book spread, hard directional key light with subtle fill, wide 
 - Aspect Ratio: 3:4
 - Prompt Language: en
 
-**[👉 Try this prompt](https://apimart.ai/model/flux-2-max)**
+**[👉 Try this prompt](https://gola.apimart.ai/k-XhaCqU-max)**
 
 ---
 
@@ -3201,7 +3201,7 @@ retro manga panel, golden hour backlight, film grain, analog color science, 4:5 
 - Aspect Ratio: 4:5
 - Prompt Language: en
 
-**[👉 Try this prompt](https://apimart.ai/model/flux-2-max)**
+**[👉 Try this prompt](https://gola.apimart.ai/k-XhaCqU-max)**
 
 ---
 
@@ -3224,7 +3224,7 @@ anime rainy window scene, moody low-key lighting, wide angle, architectural comp
 - Aspect Ratio: 2:3
 - Prompt Language: en
 
-**[👉 Try this prompt](https://apimart.ai/model/flux-2-max)**
+**[👉 Try this prompt](https://gola.apimart.ai/k-XhaCqU-max)**
 
 ---
 
@@ -3247,7 +3247,7 @@ watercolor botanical study, even diffused studio light, 85mm lens, shallow depth
 - Aspect Ratio: 16:9
 - Prompt Language: en
 
-**[👉 Try this prompt](https://apimart.ai/model/flux-2-max)**
+**[👉 Try this prompt](https://gola.apimart.ai/k-XhaCqU-max)**
 
 ---
 
@@ -3270,7 +3270,7 @@ paper-cut village landscape, volumetric fog with rim light, top-down flat lay, 4
 - Aspect Ratio: 4:3
 - Prompt Language: en
 
-**[👉 Try this prompt](https://apimart.ai/model/flux-2-max)**
+**[👉 Try this prompt](https://gola.apimart.ai/k-XhaCqU-max)**
 
 ---
 
@@ -3295,7 +3295,7 @@ glass prism still life, hard directional key light with subtle fill, isometric 3
 - Aspect Ratio: 4:5
 - Prompt Language: en
 
-**[👉 Try this prompt](https://apimart.ai/model/flux-2-max)**
+**[👉 Try this prompt](https://gola.apimart.ai/k-XhaCqU-max)**
 
 ---
 
@@ -3318,7 +3318,7 @@ clay character bust, golden hour backlight, top-down flat lay, 2:3 composition, 
 - Aspect Ratio: 2:3
 - Prompt Language: en
 
-**[👉 Try this prompt](https://apimart.ai/model/flux-2-max)**
+**[👉 Try this prompt](https://gola.apimart.ai/k-XhaCqU-max)**
 
 ---
 
@@ -3341,7 +3341,7 @@ liquid chrome lettering, moody low-key lighting, top-down flat lay, 16:9 composi
 - Aspect Ratio: 16:9
 - Prompt Language: en
 
-**[👉 Try this prompt](https://apimart.ai/model/flux-2-max)**
+**[👉 Try this prompt](https://gola.apimart.ai/k-XhaCqU-max)**
 
 ---
 
@@ -3364,7 +3364,7 @@ fabric drape study, even diffused studio light, 85mm lens, shallow depth of fiel
 - Aspect Ratio: 4:3
 - Prompt Language: en
 
-**[👉 Try this prompt](https://apimart.ai/model/flux-2-max)**
+**[👉 Try this prompt](https://gola.apimart.ai/k-XhaCqU-max)**
 
 ---
 
@@ -3387,7 +3387,7 @@ macro mineral texture, volumetric fog with rim light, film grain, analog color s
 - Aspect Ratio: 1:1
 - Prompt Language: en
 
-**[👉 Try this prompt](https://apimart.ai/model/flux-2-max)**
+**[👉 Try this prompt](https://gola.apimart.ai/k-XhaCqU-max)**
 
 ---
 
@@ -3410,7 +3410,7 @@ glass prism still life, soft window light, wide angle, architectural composition
 - Aspect Ratio: 3:4
 - Prompt Language: en
 
-**[👉 Try this prompt](https://apimart.ai/model/flux-2-max)**
+**[👉 Try this prompt](https://gola.apimart.ai/k-XhaCqU-max)**
 
 ---
 
@@ -3433,7 +3433,7 @@ clay character bust, hard directional key light with subtle fill, 100mm macro, c
 - Aspect Ratio: 4:5
 - Prompt Language: en
 
-**[👉 Try this prompt](https://apimart.ai/model/flux-2-max)**
+**[👉 Try this prompt](https://gola.apimart.ai/k-XhaCqU-max)**
 
 ---
 
@@ -3456,7 +3456,7 @@ liquid chrome lettering, golden hour backlight, 100mm macro, commercial product 
 - Aspect Ratio: 2:3
 - Prompt Language: en
 
-**[👉 Try this prompt](https://apimart.ai/model/flux-2-max)**
+**[👉 Try this prompt](https://gola.apimart.ai/k-XhaCqU-max)**
 
 ---
 
@@ -3479,7 +3479,7 @@ fabric drape study, moody low-key lighting, isometric 3D render look, 16:9 compo
 - Aspect Ratio: 16:9
 - Prompt Language: en
 
-**[👉 Try this prompt](https://apimart.ai/model/flux-2-max)**
+**[👉 Try this prompt](https://gola.apimart.ai/k-XhaCqU-max)**
 
 ---
 
@@ -3502,7 +3502,7 @@ macro mineral texture, even diffused studio light, top-down flat lay, 4:3 compos
 - Aspect Ratio: 4:3
 - Prompt Language: en
 
-**[👉 Try this prompt](https://apimart.ai/model/flux-2-max)**
+**[👉 Try this prompt](https://gola.apimart.ai/k-XhaCqU-max)**
 
 ---
 
@@ -3525,7 +3525,7 @@ glass prism still life, volumetric fog with rim light, 85mm lens, shallow depth 
 - Aspect Ratio: 1:1
 - Prompt Language: en
 
-**[👉 Try this prompt](https://apimart.ai/model/flux-2-max)**
+**[👉 Try this prompt](https://gola.apimart.ai/k-XhaCqU-max)**
 
 ---
 
@@ -3548,7 +3548,7 @@ clay character bust, soft window light, film grain, analog color science, 3:4 co
 - Aspect Ratio: 3:4
 - Prompt Language: en
 
-**[👉 Try this prompt](https://apimart.ai/model/flux-2-max)**
+**[👉 Try this prompt](https://gola.apimart.ai/k-XhaCqU-max)**
 
 ---
 
@@ -3571,7 +3571,7 @@ liquid chrome lettering, hard directional key light with subtle fill, film grain
 - Aspect Ratio: 4:5
 - Prompt Language: en
 
-**[👉 Try this prompt](https://apimart.ai/model/flux-2-max)**
+**[👉 Try this prompt](https://gola.apimart.ai/k-XhaCqU-max)**
 
 ---
 
@@ -3594,7 +3594,7 @@ fabric drape study, golden hour backlight, wide angle, architectural composition
 - Aspect Ratio: 2:3
 - Prompt Language: en
 
-**[👉 Try this prompt](https://apimart.ai/model/flux-2-max)**
+**[👉 Try this prompt](https://gola.apimart.ai/k-XhaCqU-max)**
 
 ---
 
@@ -3617,7 +3617,7 @@ macro mineral texture, moody low-key lighting, 100mm macro, commercial product p
 - Aspect Ratio: 16:9
 - Prompt Language: en
 
-**[👉 Try this prompt](https://apimart.ai/model/flux-2-max)**
+**[👉 Try this prompt](https://gola.apimart.ai/k-XhaCqU-max)**
 
 ---
 
@@ -3640,7 +3640,7 @@ glass prism still life, even diffused studio light, isometric 3D render look, 4:
 - Aspect Ratio: 4:3
 - Prompt Language: en
 
-**[👉 Try this prompt](https://apimart.ai/model/flux-2-max)**
+**[👉 Try this prompt](https://gola.apimart.ai/k-XhaCqU-max)**
 
 ---
 
@@ -3663,7 +3663,7 @@ clay character bust, volumetric fog with rim light, top-down flat lay, 1:1 compo
 - Aspect Ratio: 1:1
 - Prompt Language: en
 
-**[👉 Try this prompt](https://apimart.ai/model/flux-2-max)**
+**[👉 Try this prompt](https://gola.apimart.ai/k-XhaCqU-max)**
 
 ---
 
@@ -3686,7 +3686,7 @@ liquid chrome lettering, soft window light, top-down flat lay, 3:4 composition, 
 - Aspect Ratio: 3:4
 - Prompt Language: en
 
-**[👉 Try this prompt](https://apimart.ai/model/flux-2-max)**
+**[👉 Try this prompt](https://gola.apimart.ai/k-XhaCqU-max)**
 
 ---
 
@@ -3709,7 +3709,7 @@ fabric drape study, hard directional key light with subtle fill, 85mm lens, shal
 - Aspect Ratio: 4:5
 - Prompt Language: en
 
-**[👉 Try this prompt](https://apimart.ai/model/flux-2-max)**
+**[👉 Try this prompt](https://gola.apimart.ai/k-XhaCqU-max)**
 
 ---
 
@@ -3732,7 +3732,7 @@ macro mineral texture, golden hour backlight, film grain, analog color science, 
 - Aspect Ratio: 2:3
 - Prompt Language: en
 
-**[👉 Try this prompt](https://apimart.ai/model/flux-2-max)**
+**[👉 Try this prompt](https://gola.apimart.ai/k-XhaCqU-max)**
 
 ---
 
@@ -3755,7 +3755,7 @@ glass prism still life, moody low-key lighting, wide angle, architectural compos
 - Aspect Ratio: 16:9
 - Prompt Language: en
 
-**[👉 Try this prompt](https://apimart.ai/model/flux-2-max)**
+**[👉 Try this prompt](https://gola.apimart.ai/k-XhaCqU-max)**
 
 ---
 
@@ -3778,7 +3778,7 @@ clay character bust, even diffused studio light, 100mm macro, commercial product
 - Aspect Ratio: 4:3
 - Prompt Language: en
 
-**[👉 Try this prompt](https://apimart.ai/model/flux-2-max)**
+**[👉 Try this prompt](https://gola.apimart.ai/k-XhaCqU-max)**
 
 ---
 
@@ -3801,7 +3801,7 @@ liquid chrome lettering, volumetric fog with rim light, 100mm macro, commercial 
 - Aspect Ratio: 1:1
 - Prompt Language: en
 
-**[👉 Try this prompt](https://apimart.ai/model/flux-2-max)**
+**[👉 Try this prompt](https://gola.apimart.ai/k-XhaCqU-max)**
 
 ---
 
@@ -3824,7 +3824,7 @@ fabric drape study, soft window light, isometric 3D render look, 3:4 composition
 - Aspect Ratio: 3:4
 - Prompt Language: en
 
-**[👉 Try this prompt](https://apimart.ai/model/flux-2-max)**
+**[👉 Try this prompt](https://gola.apimart.ai/k-XhaCqU-max)**
 
 ---
 
@@ -3847,7 +3847,7 @@ macro mineral texture, hard directional key light with subtle fill, top-down fla
 - Aspect Ratio: 4:5
 - Prompt Language: en
 
-**[👉 Try this prompt](https://apimart.ai/model/flux-2-max)**
+**[👉 Try this prompt](https://gola.apimart.ai/k-XhaCqU-max)**
 
 ---
 
@@ -3870,7 +3870,7 @@ glass prism still life, golden hour backlight, 85mm lens, shallow depth of field
 - Aspect Ratio: 2:3
 - Prompt Language: en
 
-**[👉 Try this prompt](https://apimart.ai/model/flux-2-max)**
+**[👉 Try this prompt](https://gola.apimart.ai/k-XhaCqU-max)**
 
 ---
 
@@ -3893,7 +3893,7 @@ clay character bust, moody low-key lighting, film grain, analog color science, 1
 - Aspect Ratio: 16:9
 - Prompt Language: en
 
-**[👉 Try this prompt](https://apimart.ai/model/flux-2-max)**
+**[👉 Try this prompt](https://gola.apimart.ai/k-XhaCqU-max)**
 
 ---
 
@@ -3916,7 +3916,7 @@ liquid chrome lettering, even diffused studio light, film grain, analog color sc
 - Aspect Ratio: 4:3
 - Prompt Language: en
 
-**[👉 Try this prompt](https://apimart.ai/model/flux-2-max)**
+**[👉 Try this prompt](https://gola.apimart.ai/k-XhaCqU-max)**
 
 ---
 
@@ -3941,7 +3941,7 @@ overhead ramen bowl, even diffused studio light, 100mm macro, commercial product
 - Aspect Ratio: 4:5
 - Prompt Language: en
 
-**[👉 Try this prompt](https://apimart.ai/model/flux-2-max)**
+**[👉 Try this prompt](https://gola.apimart.ai/k-XhaCqU-max)**
 
 ---
 
@@ -3964,7 +3964,7 @@ morning coffee table, volumetric fog with rim light, isometric 3D render look, 2
 - Aspect Ratio: 2:3
 - Prompt Language: en
 
-**[👉 Try this prompt](https://apimart.ai/model/flux-2-max)**
+**[👉 Try this prompt](https://gola.apimart.ai/k-XhaCqU-max)**
 
 ---
 
@@ -3987,7 +3987,7 @@ rustic sourdough loaf, soft window light, 100mm macro, commercial product photog
 - Aspect Ratio: 16:9
 - Prompt Language: en
 
-**[👉 Try this prompt](https://apimart.ai/model/flux-2-max)**
+**[👉 Try this prompt](https://gola.apimart.ai/k-XhaCqU-max)**
 
 ---
 
@@ -4010,7 +4010,7 @@ cocktail on bar counter, hard directional key light with subtle fill, film grain
 - Aspect Ratio: 4:3
 - Prompt Language: en
 
-**[👉 Try this prompt](https://apimart.ai/model/flux-2-max)**
+**[👉 Try this prompt](https://gola.apimart.ai/k-XhaCqU-max)**
 
 ---
 
@@ -4033,7 +4033,7 @@ summer picnic spread, golden hour backlight, isometric 3D render look, 1:1 compo
 - Aspect Ratio: 1:1
 - Prompt Language: en
 
-**[👉 Try this prompt](https://apimart.ai/model/flux-2-max)**
+**[👉 Try this prompt](https://gola.apimart.ai/k-XhaCqU-max)**
 
 ---
 
@@ -4056,7 +4056,7 @@ overhead ramen bowl, moody low-key lighting, film grain, analog color science, 3
 - Aspect Ratio: 3:4
 - Prompt Language: en
 
-**[👉 Try this prompt](https://apimart.ai/model/flux-2-max)**
+**[👉 Try this prompt](https://gola.apimart.ai/k-XhaCqU-max)**
 
 ---
 
@@ -4079,7 +4079,7 @@ morning coffee table, even diffused studio light, wide angle, architectural comp
 - Aspect Ratio: 4:5
 - Prompt Language: en
 
-**[👉 Try this prompt](https://apimart.ai/model/flux-2-max)**
+**[👉 Try this prompt](https://gola.apimart.ai/k-XhaCqU-max)**
 
 ---
 
@@ -4102,7 +4102,7 @@ rustic sourdough loaf, volumetric fog with rim light, film grain, analog color s
 - Aspect Ratio: 2:3
 - Prompt Language: en
 
-**[👉 Try this prompt](https://apimart.ai/model/flux-2-max)**
+**[👉 Try this prompt](https://gola.apimart.ai/k-XhaCqU-max)**
 
 ---
 
@@ -4125,7 +4125,7 @@ cocktail on bar counter, soft window light, top-down flat lay, 16:9 composition,
 - Aspect Ratio: 16:9
 - Prompt Language: en
 
-**[👉 Try this prompt](https://apimart.ai/model/flux-2-max)**
+**[👉 Try this prompt](https://gola.apimart.ai/k-XhaCqU-max)**
 
 ---
 
@@ -4148,7 +4148,7 @@ summer picnic spread, hard directional key light with subtle fill, wide angle, a
 - Aspect Ratio: 4:3
 - Prompt Language: en
 
-**[👉 Try this prompt](https://apimart.ai/model/flux-2-max)**
+**[👉 Try this prompt](https://gola.apimart.ai/k-XhaCqU-max)**
 
 ---
 
@@ -4171,7 +4171,7 @@ overhead ramen bowl, golden hour backlight, top-down flat lay, 1:1 composition, 
 - Aspect Ratio: 1:1
 - Prompt Language: en
 
-**[👉 Try this prompt](https://apimart.ai/model/flux-2-max)**
+**[👉 Try this prompt](https://gola.apimart.ai/k-XhaCqU-max)**
 
 ---
 
@@ -4194,7 +4194,7 @@ morning coffee table, moody low-key lighting, 85mm lens, shallow depth of field,
 - Aspect Ratio: 3:4
 - Prompt Language: en
 
-**[👉 Try this prompt](https://apimart.ai/model/flux-2-max)**
+**[👉 Try this prompt](https://gola.apimart.ai/k-XhaCqU-max)**
 
 ---
 
@@ -4217,7 +4217,7 @@ rustic sourdough loaf, even diffused studio light, top-down flat lay, 4:5 compos
 - Aspect Ratio: 4:5
 - Prompt Language: en
 
-**[👉 Try this prompt](https://apimart.ai/model/flux-2-max)**
+**[👉 Try this prompt](https://gola.apimart.ai/k-XhaCqU-max)**
 
 ---
 
@@ -4240,7 +4240,7 @@ cocktail on bar counter, volumetric fog with rim light, 100mm macro, commercial 
 - Aspect Ratio: 2:3
 - Prompt Language: en
 
-**[👉 Try this prompt](https://apimart.ai/model/flux-2-max)**
+**[👉 Try this prompt](https://gola.apimart.ai/k-XhaCqU-max)**
 
 ---
 
@@ -4263,7 +4263,7 @@ summer picnic spread, soft window light, 85mm lens, shallow depth of field, 16:9
 - Aspect Ratio: 16:9
 - Prompt Language: en
 
-**[👉 Try this prompt](https://apimart.ai/model/flux-2-max)**
+**[👉 Try this prompt](https://gola.apimart.ai/k-XhaCqU-max)**
 
 ---
 
@@ -4286,7 +4286,7 @@ overhead ramen bowl, hard directional key light with subtle fill, 100mm macro, c
 - Aspect Ratio: 4:3
 - Prompt Language: en
 
-**[👉 Try this prompt](https://apimart.ai/model/flux-2-max)**
+**[👉 Try this prompt](https://gola.apimart.ai/k-XhaCqU-max)**
 
 ---
 
@@ -4309,7 +4309,7 @@ morning coffee table, golden hour backlight, isometric 3D render look, 1:1 compo
 - Aspect Ratio: 1:1
 - Prompt Language: en
 
-**[👉 Try this prompt](https://apimart.ai/model/flux-2-max)**
+**[👉 Try this prompt](https://gola.apimart.ai/k-XhaCqU-max)**
 
 ---
 
@@ -4332,7 +4332,7 @@ rustic sourdough loaf, moody low-key lighting, 100mm macro, commercial product p
 - Aspect Ratio: 3:4
 - Prompt Language: en
 
-**[👉 Try this prompt](https://apimart.ai/model/flux-2-max)**
+**[👉 Try this prompt](https://gola.apimart.ai/k-XhaCqU-max)**
 
 ---
 
@@ -4355,7 +4355,7 @@ cocktail on bar counter, even diffused studio light, film grain, analog color sc
 - Aspect Ratio: 4:5
 - Prompt Language: en
 
-**[👉 Try this prompt](https://apimart.ai/model/flux-2-max)**
+**[👉 Try this prompt](https://gola.apimart.ai/k-XhaCqU-max)**
 
 ---
 
@@ -4378,7 +4378,7 @@ summer picnic spread, volumetric fog with rim light, isometric 3D render look, 2
 - Aspect Ratio: 2:3
 - Prompt Language: en
 
-**[👉 Try this prompt](https://apimart.ai/model/flux-2-max)**
+**[👉 Try this prompt](https://gola.apimart.ai/k-XhaCqU-max)**
 
 ---
 
@@ -4401,7 +4401,7 @@ overhead ramen bowl, soft window light, film grain, analog color science, 16:9 c
 - Aspect Ratio: 16:9
 - Prompt Language: en
 
-**[👉 Try this prompt](https://apimart.ai/model/flux-2-max)**
+**[👉 Try this prompt](https://gola.apimart.ai/k-XhaCqU-max)**
 
 ---
 
@@ -4424,7 +4424,7 @@ morning coffee table, hard directional key light with subtle fill, wide angle, a
 - Aspect Ratio: 4:3
 - Prompt Language: en
 
-**[👉 Try this prompt](https://apimart.ai/model/flux-2-max)**
+**[👉 Try this prompt](https://gola.apimart.ai/k-XhaCqU-max)**
 
 ---
 
@@ -4447,7 +4447,7 @@ rustic sourdough loaf, golden hour backlight, film grain, analog color science, 
 - Aspect Ratio: 1:1
 - Prompt Language: en
 
-**[👉 Try this prompt](https://apimart.ai/model/flux-2-max)**
+**[👉 Try this prompt](https://gola.apimart.ai/k-XhaCqU-max)**
 
 ---
 
@@ -4470,7 +4470,7 @@ cocktail on bar counter, moody low-key lighting, top-down flat lay, 3:4 composit
 - Aspect Ratio: 3:4
 - Prompt Language: en
 
-**[👉 Try this prompt](https://apimart.ai/model/flux-2-max)**
+**[👉 Try this prompt](https://gola.apimart.ai/k-XhaCqU-max)**
 
 ---
 
@@ -4493,7 +4493,7 @@ summer picnic spread, even diffused studio light, wide angle, architectural comp
 - Aspect Ratio: 4:5
 - Prompt Language: en
 
-**[👉 Try this prompt](https://apimart.ai/model/flux-2-max)**
+**[👉 Try this prompt](https://gola.apimart.ai/k-XhaCqU-max)**
 
 ---
 
@@ -4516,7 +4516,7 @@ overhead ramen bowl, volumetric fog with rim light, top-down flat lay, 2:3 compo
 - Aspect Ratio: 2:3
 - Prompt Language: en
 
-**[👉 Try this prompt](https://apimart.ai/model/flux-2-max)**
+**[👉 Try this prompt](https://gola.apimart.ai/k-XhaCqU-max)**
 
 ---
 
@@ -4539,7 +4539,7 @@ morning coffee table, soft window light, 85mm lens, shallow depth of field, 16:9
 - Aspect Ratio: 16:9
 - Prompt Language: en
 
-**[👉 Try this prompt](https://apimart.ai/model/flux-2-max)**
+**[👉 Try this prompt](https://gola.apimart.ai/k-XhaCqU-max)**
 
 ---
 
@@ -4562,7 +4562,7 @@ rustic sourdough loaf, hard directional key light with subtle fill, top-down fla
 - Aspect Ratio: 4:3
 - Prompt Language: en
 
-**[👉 Try this prompt](https://apimart.ai/model/flux-2-max)**
+**[👉 Try this prompt](https://gola.apimart.ai/k-XhaCqU-max)**
 
 ---
 
@@ -4587,7 +4587,7 @@ brutalist atrium, volumetric fog with rim light, isometric 3D render look, 4:5 c
 - Aspect Ratio: 4:5
 - Prompt Language: en
 
-**[👉 Try this prompt](https://apimart.ai/model/flux-2-max)**
+**[👉 Try this prompt](https://gola.apimart.ai/k-XhaCqU-max)**
 
 ---
 
@@ -4610,7 +4610,7 @@ japandi living room, soft window light, top-down flat lay, 2:3 composition, high
 - Aspect Ratio: 2:3
 - Prompt Language: en
 
-**[👉 Try this prompt](https://apimart.ai/model/flux-2-max)**
+**[👉 Try this prompt](https://gola.apimart.ai/k-XhaCqU-max)**
 
 ---
 
@@ -4633,7 +4633,7 @@ rain-soaked city street, hard directional key light with subtle fill, top-down f
 - Aspect Ratio: 16:9
 - Prompt Language: en
 
-**[👉 Try this prompt](https://apimart.ai/model/flux-2-max)**
+**[👉 Try this prompt](https://gola.apimart.ai/k-XhaCqU-max)**
 
 ---
 
@@ -4656,7 +4656,7 @@ desert pavilion, golden hour backlight, top-down flat lay, 4:3 composition, high
 - Aspect Ratio: 4:3
 - Prompt Language: en
 
-**[👉 Try this prompt](https://apimart.ai/model/flux-2-max)**
+**[👉 Try this prompt](https://gola.apimart.ai/k-XhaCqU-max)**
 
 ---
 
@@ -4679,7 +4679,7 @@ nordic cabin interior, moody low-key lighting, film grain, analog color science,
 - Aspect Ratio: 1:1
 - Prompt Language: en
 
-**[👉 Try this prompt](https://apimart.ai/model/flux-2-max)**
+**[👉 Try this prompt](https://gola.apimart.ai/k-XhaCqU-max)**
 
 ---
 
@@ -4702,7 +4702,7 @@ brutalist atrium, even diffused studio light, wide angle, architectural composit
 - Aspect Ratio: 3:4
 - Prompt Language: en
 
-**[👉 Try this prompt](https://apimart.ai/model/flux-2-max)**
+**[👉 Try this prompt](https://gola.apimart.ai/k-XhaCqU-max)**
 
 ---
 
@@ -4725,7 +4725,7 @@ japandi living room, volumetric fog with rim light, 100mm macro, commercial prod
 - Aspect Ratio: 4:5
 - Prompt Language: en
 
-**[👉 Try this prompt](https://apimart.ai/model/flux-2-max)**
+**[👉 Try this prompt](https://gola.apimart.ai/k-XhaCqU-max)**
 
 ---
 
@@ -4748,7 +4748,7 @@ rain-soaked city street, soft window light, 100mm macro, commercial product phot
 - Aspect Ratio: 2:3
 - Prompt Language: en
 
-**[👉 Try this prompt](https://apimart.ai/model/flux-2-max)**
+**[👉 Try this prompt](https://gola.apimart.ai/k-XhaCqU-max)**
 
 ---
 
@@ -4771,7 +4771,7 @@ desert pavilion, hard directional key light with subtle fill, 100mm macro, comme
 - Aspect Ratio: 16:9
 - Prompt Language: en
 
-**[👉 Try this prompt](https://apimart.ai/model/flux-2-max)**
+**[👉 Try this prompt](https://gola.apimart.ai/k-XhaCqU-max)**
 
 ---
 
@@ -4794,7 +4794,7 @@ nordic cabin interior, golden hour backlight, top-down flat lay, 4:3 composition
 - Aspect Ratio: 4:3
 - Prompt Language: en
 
-**[👉 Try this prompt](https://apimart.ai/model/flux-2-max)**
+**[👉 Try this prompt](https://gola.apimart.ai/k-XhaCqU-max)**
 
 ---
 
@@ -4817,7 +4817,7 @@ brutalist atrium, moody low-key lighting, 85mm lens, shallow depth of field, 1:1
 - Aspect Ratio: 1:1
 - Prompt Language: en
 
-**[👉 Try this prompt](https://apimart.ai/model/flux-2-max)**
+**[👉 Try this prompt](https://gola.apimart.ai/k-XhaCqU-max)**
 
 ---
 
@@ -4840,7 +4840,7 @@ japandi living room, even diffused studio light, film grain, analog color scienc
 - Aspect Ratio: 3:4
 - Prompt Language: en
 
-**[👉 Try this prompt](https://apimart.ai/model/flux-2-max)**
+**[👉 Try this prompt](https://gola.apimart.ai/k-XhaCqU-max)**
 
 ---
 
@@ -4863,7 +4863,7 @@ rain-soaked city street, volumetric fog with rim light, film grain, analog color
 - Aspect Ratio: 4:5
 - Prompt Language: en
 
-**[👉 Try this prompt](https://apimart.ai/model/flux-2-max)**
+**[👉 Try this prompt](https://gola.apimart.ai/k-XhaCqU-max)**
 
 ---
 
@@ -4886,7 +4886,7 @@ desert pavilion, soft window light, film grain, analog color science, 2:3 compos
 - Aspect Ratio: 2:3
 - Prompt Language: en
 
-**[👉 Try this prompt](https://apimart.ai/model/flux-2-max)**
+**[👉 Try this prompt](https://gola.apimart.ai/k-XhaCqU-max)**
 
 ---
 
@@ -4909,7 +4909,7 @@ nordic cabin interior, hard directional key light with subtle fill, 100mm macro,
 - Aspect Ratio: 16:9
 - Prompt Language: en
 
-**[👉 Try this prompt](https://apimart.ai/model/flux-2-max)**
+**[👉 Try this prompt](https://gola.apimart.ai/k-XhaCqU-max)**
 
 ---
 
@@ -4932,7 +4932,7 @@ brutalist atrium, golden hour backlight, isometric 3D render look, 4:3 compositi
 - Aspect Ratio: 4:3
 - Prompt Language: en
 
-**[👉 Try this prompt](https://apimart.ai/model/flux-2-max)**
+**[👉 Try this prompt](https://gola.apimart.ai/k-XhaCqU-max)**
 
 ---
 
@@ -4955,7 +4955,7 @@ japandi living room, moody low-key lighting, top-down flat lay, 1:1 composition,
 - Aspect Ratio: 1:1
 - Prompt Language: en
 
-**[👉 Try this prompt](https://apimart.ai/model/flux-2-max)**
+**[👉 Try this prompt](https://gola.apimart.ai/k-XhaCqU-max)**
 
 ---
 
@@ -4978,7 +4978,7 @@ rain-soaked city street, even diffused studio light, top-down flat lay, 3:4 comp
 - Aspect Ratio: 3:4
 - Prompt Language: en
 
-**[👉 Try this prompt](https://apimart.ai/model/flux-2-max)**
+**[👉 Try this prompt](https://gola.apimart.ai/k-XhaCqU-max)**
 
 ---
 
@@ -5001,7 +5001,7 @@ desert pavilion, volumetric fog with rim light, top-down flat lay, 4:5 compositi
 - Aspect Ratio: 4:5
 - Prompt Language: en
 
-**[👉 Try this prompt](https://apimart.ai/model/flux-2-max)**
+**[👉 Try this prompt](https://gola.apimart.ai/k-XhaCqU-max)**
 
 ---
 
@@ -5024,7 +5024,7 @@ nordic cabin interior, soft window light, film grain, analog color science, 2:3 
 - Aspect Ratio: 2:3
 - Prompt Language: en
 
-**[👉 Try this prompt](https://apimart.ai/model/flux-2-max)**
+**[👉 Try this prompt](https://gola.apimart.ai/k-XhaCqU-max)**
 
 ---
 
@@ -5047,7 +5047,7 @@ brutalist atrium, hard directional key light with subtle fill, wide angle, archi
 - Aspect Ratio: 16:9
 - Prompt Language: en
 
-**[👉 Try this prompt](https://apimart.ai/model/flux-2-max)**
+**[👉 Try this prompt](https://gola.apimart.ai/k-XhaCqU-max)**
 
 ---
 
@@ -5070,7 +5070,7 @@ japandi living room, golden hour backlight, 100mm macro, commercial product phot
 - Aspect Ratio: 4:3
 - Prompt Language: en
 
-**[👉 Try this prompt](https://apimart.ai/model/flux-2-max)**
+**[👉 Try this prompt](https://gola.apimart.ai/k-XhaCqU-max)**
 
 ---
 
@@ -5093,7 +5093,7 @@ rain-soaked city street, moody low-key lighting, 100mm macro, commercial product
 - Aspect Ratio: 1:1
 - Prompt Language: en
 
-**[👉 Try this prompt](https://apimart.ai/model/flux-2-max)**
+**[👉 Try this prompt](https://gola.apimart.ai/k-XhaCqU-max)**
 
 ---
 
@@ -5116,7 +5116,7 @@ desert pavilion, even diffused studio light, 100mm macro, commercial product pho
 - Aspect Ratio: 3:4
 - Prompt Language: en
 
-**[👉 Try this prompt](https://apimart.ai/model/flux-2-max)**
+**[👉 Try this prompt](https://gola.apimart.ai/k-XhaCqU-max)**
 
 ---
 
@@ -5139,7 +5139,7 @@ nordic cabin interior, volumetric fog with rim light, top-down flat lay, 4:5 com
 - Aspect Ratio: 4:5
 - Prompt Language: en
 
-**[👉 Try this prompt](https://apimart.ai/model/flux-2-max)**
+**[👉 Try this prompt](https://gola.apimart.ai/k-XhaCqU-max)**
 
 ---
 
@@ -5162,7 +5162,7 @@ brutalist atrium, soft window light, 85mm lens, shallow depth of field, 2:3 comp
 - Aspect Ratio: 2:3
 - Prompt Language: en
 
-**[👉 Try this prompt](https://apimart.ai/model/flux-2-max)**
+**[👉 Try this prompt](https://gola.apimart.ai/k-XhaCqU-max)**
 
 ---
 
@@ -5185,7 +5185,7 @@ japandi living room, hard directional key light with subtle fill, film grain, an
 - Aspect Ratio: 16:9
 - Prompt Language: en
 
-**[👉 Try this prompt](https://apimart.ai/model/flux-2-max)**
+**[👉 Try this prompt](https://gola.apimart.ai/k-XhaCqU-max)**
 
 ---
 
@@ -5208,7 +5208,7 @@ rain-soaked city street, golden hour backlight, film grain, analog color science
 - Aspect Ratio: 4:3
 - Prompt Language: en
 
-**[👉 Try this prompt](https://apimart.ai/model/flux-2-max)**
+**[👉 Try this prompt](https://gola.apimart.ai/k-XhaCqU-max)**
 
 ---
 
@@ -5233,7 +5233,7 @@ misty pine forest, soft window light, film grain, analog color science, 4:5 comp
 - Aspect Ratio: 4:5
 - Prompt Language: en
 
-**[👉 Try this prompt](https://apimart.ai/model/flux-2-max)**
+**[👉 Try this prompt](https://gola.apimart.ai/k-XhaCqU-max)**
 
 ---
 
@@ -5256,7 +5256,7 @@ volcanic coastline at dusk, hard directional key light with subtle fill, isometr
 - Aspect Ratio: 2:3
 - Prompt Language: en
 
-**[👉 Try this prompt](https://apimart.ai/model/flux-2-max)**
+**[👉 Try this prompt](https://gola.apimart.ai/k-XhaCqU-max)**
 
 ---
 
@@ -5279,7 +5279,7 @@ alpine lake reflection, golden hour backlight, wide angle, architectural composi
 - Aspect Ratio: 16:9
 - Prompt Language: en
 
-**[👉 Try this prompt](https://apimart.ai/model/flux-2-max)**
+**[👉 Try this prompt](https://gola.apimart.ai/k-XhaCqU-max)**
 
 ---
 
@@ -5302,7 +5302,7 @@ sand dune ridges, moody low-key lighting, isometric 3D render look, 4:3 composit
 - Aspect Ratio: 4:3
 - Prompt Language: en
 
-**[👉 Try this prompt](https://apimart.ai/model/flux-2-max)**
+**[👉 Try this prompt](https://gola.apimart.ai/k-XhaCqU-max)**
 
 ---
 
@@ -5325,7 +5325,7 @@ autumn birch grove, even diffused studio light, wide angle, architectural compos
 - Aspect Ratio: 1:1
 - Prompt Language: en
 
-**[👉 Try this prompt](https://apimart.ai/model/flux-2-max)**
+**[👉 Try this prompt](https://gola.apimart.ai/k-XhaCqU-max)**
 
 ---
 
@@ -5348,7 +5348,7 @@ misty pine forest, volumetric fog with rim light, top-down flat lay, 3:4 composi
 - Aspect Ratio: 3:4
 - Prompt Language: en
 
-**[👉 Try this prompt](https://apimart.ai/model/flux-2-max)**
+**[👉 Try this prompt](https://gola.apimart.ai/k-XhaCqU-max)**
 
 ---
 
@@ -5371,7 +5371,7 @@ volcanic coastline at dusk, soft window light, wide angle, architectural composi
 - Aspect Ratio: 4:5
 - Prompt Language: en
 
-**[👉 Try this prompt](https://apimart.ai/model/flux-2-max)**
+**[👉 Try this prompt](https://gola.apimart.ai/k-XhaCqU-max)**
 
 ---
 
@@ -5394,7 +5394,7 @@ alpine lake reflection, hard directional key light with subtle fill, 85mm lens, 
 - Aspect Ratio: 2:3
 - Prompt Language: en
 
-**[👉 Try this prompt](https://apimart.ai/model/flux-2-max)**
+**[👉 Try this prompt](https://gola.apimart.ai/k-XhaCqU-max)**
 
 ---
 
@@ -5417,7 +5417,7 @@ sand dune ridges, golden hour backlight, wide angle, architectural composition, 
 - Aspect Ratio: 16:9
 - Prompt Language: en
 
-**[👉 Try this prompt](https://apimart.ai/model/flux-2-max)**
+**[👉 Try this prompt](https://gola.apimart.ai/k-XhaCqU-max)**
 
 ---
 
@@ -5440,7 +5440,7 @@ autumn birch grove, moody low-key lighting, 85mm lens, shallow depth of field, 4
 - Aspect Ratio: 4:3
 - Prompt Language: en
 
-**[👉 Try this prompt](https://apimart.ai/model/flux-2-max)**
+**[👉 Try this prompt](https://gola.apimart.ai/k-XhaCqU-max)**
 
 ---
 
@@ -5463,7 +5463,7 @@ misty pine forest, even diffused studio light, 100mm macro, commercial product p
 - Aspect Ratio: 1:1
 - Prompt Language: en
 
-**[👉 Try this prompt](https://apimart.ai/model/flux-2-max)**
+**[👉 Try this prompt](https://gola.apimart.ai/k-XhaCqU-max)**
 
 ---
 
@@ -5486,7 +5486,7 @@ volcanic coastline at dusk, volumetric fog with rim light, 85mm lens, shallow de
 - Aspect Ratio: 3:4
 - Prompt Language: en
 
-**[👉 Try this prompt](https://apimart.ai/model/flux-2-max)**
+**[👉 Try this prompt](https://gola.apimart.ai/k-XhaCqU-max)**
 
 ---
 
@@ -5509,7 +5509,7 @@ alpine lake reflection, soft window light, isometric 3D render look, 4:5 composi
 - Aspect Ratio: 4:5
 - Prompt Language: en
 
-**[👉 Try this prompt](https://apimart.ai/model/flux-2-max)**
+**[👉 Try this prompt](https://gola.apimart.ai/k-XhaCqU-max)**
 
 ---
 
@@ -5532,7 +5532,7 @@ sand dune ridges, hard directional key light with subtle fill, 85mm lens, shallo
 - Aspect Ratio: 2:3
 - Prompt Language: en
 
-**[👉 Try this prompt](https://apimart.ai/model/flux-2-max)**
+**[👉 Try this prompt](https://gola.apimart.ai/k-XhaCqU-max)**
 
 ---
 
@@ -5555,7 +5555,7 @@ autumn birch grove, golden hour backlight, isometric 3D render look, 16:9 compos
 - Aspect Ratio: 16:9
 - Prompt Language: en
 
-**[👉 Try this prompt](https://apimart.ai/model/flux-2-max)**
+**[👉 Try this prompt](https://gola.apimart.ai/k-XhaCqU-max)**
 
 ---
 
@@ -5578,7 +5578,7 @@ misty pine forest, moody low-key lighting, film grain, analog color science, 4:3
 - Aspect Ratio: 4:3
 - Prompt Language: en
 
-**[👉 Try this prompt](https://apimart.ai/model/flux-2-max)**
+**[👉 Try this prompt](https://gola.apimart.ai/k-XhaCqU-max)**
 
 ---
 
@@ -5601,7 +5601,7 @@ volcanic coastline at dusk, even diffused studio light, isometric 3D render look
 - Aspect Ratio: 1:1
 - Prompt Language: en
 
-**[👉 Try this prompt](https://apimart.ai/model/flux-2-max)**
+**[👉 Try this prompt](https://gola.apimart.ai/k-XhaCqU-max)**
 
 ---
 
@@ -5624,7 +5624,7 @@ alpine lake reflection, volumetric fog with rim light, wide angle, architectural
 - Aspect Ratio: 3:4
 - Prompt Language: en
 
-**[👉 Try this prompt](https://apimart.ai/model/flux-2-max)**
+**[👉 Try this prompt](https://gola.apimart.ai/k-XhaCqU-max)**
 
 ---
 
@@ -5647,7 +5647,7 @@ sand dune ridges, soft window light, isometric 3D render look, 4:5 composition, 
 - Aspect Ratio: 4:5
 - Prompt Language: en
 
-**[👉 Try this prompt](https://apimart.ai/model/flux-2-max)**
+**[👉 Try this prompt](https://gola.apimart.ai/k-XhaCqU-max)**
 
 ---
 
@@ -5670,7 +5670,7 @@ autumn birch grove, hard directional key light with subtle fill, wide angle, arc
 - Aspect Ratio: 2:3
 - Prompt Language: en
 
-**[👉 Try this prompt](https://apimart.ai/model/flux-2-max)**
+**[👉 Try this prompt](https://gola.apimart.ai/k-XhaCqU-max)**
 
 ---
 
@@ -5693,7 +5693,7 @@ misty pine forest, golden hour backlight, top-down flat lay, 16:9 composition, h
 - Aspect Ratio: 16:9
 - Prompt Language: en
 
-**[👉 Try this prompt](https://apimart.ai/model/flux-2-max)**
+**[👉 Try this prompt](https://gola.apimart.ai/k-XhaCqU-max)**
 
 ---
 
@@ -5716,7 +5716,7 @@ volcanic coastline at dusk, moody low-key lighting, wide angle, architectural co
 - Aspect Ratio: 4:3
 - Prompt Language: en
 
-**[👉 Try this prompt](https://apimart.ai/model/flux-2-max)**
+**[👉 Try this prompt](https://gola.apimart.ai/k-XhaCqU-max)**
 
 ---
 
@@ -5739,7 +5739,7 @@ alpine lake reflection, even diffused studio light, 85mm lens, shallow depth of 
 - Aspect Ratio: 1:1
 - Prompt Language: en
 
-**[👉 Try this prompt](https://apimart.ai/model/flux-2-max)**
+**[👉 Try this prompt](https://gola.apimart.ai/k-XhaCqU-max)**
 
 ---
 
@@ -5762,7 +5762,7 @@ sand dune ridges, volumetric fog with rim light, wide angle, architectural compo
 - Aspect Ratio: 3:4
 - Prompt Language: en
 
-**[👉 Try this prompt](https://apimart.ai/model/flux-2-max)**
+**[👉 Try this prompt](https://gola.apimart.ai/k-XhaCqU-max)**
 
 ---
 
@@ -5785,7 +5785,7 @@ autumn birch grove, soft window light, 85mm lens, shallow depth of field, 4:5 co
 - Aspect Ratio: 4:5
 - Prompt Language: en
 
-**[👉 Try this prompt](https://apimart.ai/model/flux-2-max)**
+**[👉 Try this prompt](https://gola.apimart.ai/k-XhaCqU-max)**
 
 ---
 
@@ -5808,7 +5808,7 @@ misty pine forest, hard directional key light with subtle fill, 100mm macro, com
 - Aspect Ratio: 2:3
 - Prompt Language: en
 
-**[👉 Try this prompt](https://apimart.ai/model/flux-2-max)**
+**[👉 Try this prompt](https://gola.apimart.ai/k-XhaCqU-max)**
 
 ---
 
@@ -5831,7 +5831,7 @@ volcanic coastline at dusk, golden hour backlight, 85mm lens, shallow depth of f
 - Aspect Ratio: 16:9
 - Prompt Language: en
 
-**[👉 Try this prompt](https://apimart.ai/model/flux-2-max)**
+**[👉 Try this prompt](https://gola.apimart.ai/k-XhaCqU-max)**
 
 ---
 
@@ -5854,7 +5854,7 @@ alpine lake reflection, moody low-key lighting, isometric 3D render look, 4:3 co
 - Aspect Ratio: 4:3
 - Prompt Language: en
 
-**[👉 Try this prompt](https://apimart.ai/model/flux-2-max)**
+**[👉 Try this prompt](https://gola.apimart.ai/k-XhaCqU-max)**
 
 ---
 

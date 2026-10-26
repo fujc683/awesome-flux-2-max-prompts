@@ -33,7 +33,7 @@ Imagen 4.0 is known for natural photorealism and prompt adherence. This collecti
 
 - **252** prompts in this collection
 - **9** Category
-- Last updated: 2026-10-25
+- Last updated: 2026-10-26
 - apimart.ai/model/flux-2-max
 
 ## Browse by Category
